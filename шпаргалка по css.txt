@@ -1,0 +1,12 @@
+color - цвет текста
+background-color - цвет фона
+font-family - шрифт
+font-size - размер шрифта
+margin - внешние отступы
+padding - внутренние отступы
+display: flex - гибкая раскладка
+justify-content - выравнивание по горизонтали
+align-items - выравнивание по вертикали
+text-decoration - оформление текста
+transition - плавные переходы
+:hover - стили при наведении
