@@ -1,8 +1,8 @@
 <?php
 // test_db.php
 
-require_once 'config/database.php';
-require_once 'classes/User.php';
+require_once 'database.php';
+require_once 'user.php';
 
 $db = new Database();
 if ($db->testConnection()) {
